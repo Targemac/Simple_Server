@@ -1,1 +1,1 @@
-Setting up a simple server useing Node and Express
+Setting up a simple server using Node and Express
